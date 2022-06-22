@@ -2,6 +2,10 @@
 
 These are the results for our paper "Developing a Free and Open-source Automated Building Exterior Crack Inspection Software for Construction and Facility Managers" by P. Ko, S. A. Prieto, B. García de Soto from [S.M.A.R.T. Construction Research Group](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/smart-construction-research-group.html) at New York University Abu Dhabi
 
+Find our current paper at 
+
+Ko, P., Prieto, S.A., & Garcia de Soto, B. (2022). [Developing a Free and Open-source Automated Building Exterior Crack Inspection Software for Construction and Facility Managers.](https://arxiv.org/abs/2206.09742) arXiv preprint arXiv:2206.09742.
+
 The following contains the Intersection Over Union evaluation for images taken in 
 - Indoor Lab Controlled Environment, using DJI Matrice 300 RTK Drone (14 images)
 - Outdoor Construction Site Environment, using Android Smartphone (14 images)
